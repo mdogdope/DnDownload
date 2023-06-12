@@ -1,0 +1,26 @@
+    {
+      "links": [
+        "/spell:astral-projection",
+        "/spell:blade-of-disaster",
+        "/spell:foresight",
+        "/spell:gate",
+        "/spell:imprisonment",
+        "/spell:invulnerability",
+        "/spell:mass-heal",
+        "/spell:mass-polymorph",
+        "/spell:meteor-swarm",
+        "/spell:power-word-heal",
+        "/spell:power-word-kill",
+        "/spell:prismatic-wall",
+        "/spell:psychic-scream",
+        "/spell:ravenous-void",
+        "/spell:shapechange",
+        "/spell:storm-of-vengeance",
+        "/spell:time-ravage",
+        "/spell:time-stop",
+        "/spell:true-polymorph",
+        "/spell:true-resurrection",
+        "/spell:weird",
+        "/spell:wish"
+      ]
+    }
